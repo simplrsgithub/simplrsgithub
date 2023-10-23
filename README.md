@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simplrsgithub
 - 👀 I’m interested in ...to use this software
-- 🌱 I’m currently learning ...in computer scienc
+- 🌱 I’m currently learning ...in computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
